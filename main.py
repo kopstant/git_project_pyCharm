@@ -1,3 +1,3 @@
-import funcs
+from funcs import add
 
-funcs.how_many_plus
+add(5,10)
